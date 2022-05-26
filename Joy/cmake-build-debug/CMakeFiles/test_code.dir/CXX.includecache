@@ -6,19 +6,17 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhengjie/CLionProjects/test_code/1155.h
+/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/1206.h
 vector
 -
-algorithm
--
-math.h
+stack
 -
 iostream
 -
 
-/Users/zhengjie/CLionProjects/test_code/main.cpp
-1155.h
-/Users/zhengjie/CLionProjects/test_code/1155.h
+/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/main.cpp
+1206.h
+/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/1206.h
 math.h
 -
 iostream
