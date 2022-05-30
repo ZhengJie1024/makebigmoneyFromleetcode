@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/1206.h
+/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/729.h
 vector
 -
 stack
@@ -15,8 +15,8 @@ iostream
 -
 
 /Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/main.cpp
-1206.h
-/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/1206.h
+729.h
+/Users/zhengjie/CLionProjects/makebigmoneyFromleetcode/Joy/729.h
 math.h
 -
 iostream
